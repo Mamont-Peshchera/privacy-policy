@@ -12,7 +12,7 @@ Words with capitalized initial letters have meanings defined under the following
 ### Definitions
 For the purposes of this Privacy Policy:
 
-- **Application** refers to *Plastic Food*, the software program provided by the Company.
+- **Application** refers to any software program provided by the Company.
 - **Company** (referred to as "the Company," "We," "Us," or "Our" in this Agreement) refers to *Yevaa*.
 - **Device** means any device that can access the Service, such as a computer, cellphone, or digital tablet.
 - **Personal Data** refers to any information that relates to an identified or identifiable individual.
